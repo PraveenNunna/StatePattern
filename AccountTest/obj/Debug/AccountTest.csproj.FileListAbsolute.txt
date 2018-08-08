@@ -1,0 +1,7 @@
+F:\Playpen\AccountTest\AccountTest\bin\Debug\AccountTest.exe.config
+F:\Playpen\AccountTest\AccountTest\bin\Debug\AccountTest.exe
+F:\Playpen\AccountTest\AccountTest\bin\Debug\AccountTest.pdb
+F:\Playpen\AccountTest\AccountTest\obj\Debug\AccountTest.csprojAssemblyReference.cache
+F:\Playpen\AccountTest\AccountTest\obj\Debug\AccountTest.csproj.CoreCompileInputs.cache
+F:\Playpen\AccountTest\AccountTest\obj\Debug\AccountTest.exe
+F:\Playpen\AccountTest\AccountTest\obj\Debug\AccountTest.pdb
